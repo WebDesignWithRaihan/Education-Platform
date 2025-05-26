@@ -60,6 +60,11 @@ p {
     border-radius: 25px;
     padding: 10px 20px;
     display: inline-block;
+    transition: .3s;
+}
+
+.btn a:hover {
+    background-color: #ffbb00b1;
 }
 
 
